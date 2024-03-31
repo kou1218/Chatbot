@@ -1,1 +1,2 @@
 # Chatbot
+LangChainとStreamlitを用いて簡易的なChatbotを作成するリポジトリです。
